@@ -1,0 +1,1 @@
+"""mailauth：离线 SPF 与 DMARC 评估练习包。"""
